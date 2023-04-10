@@ -1,0 +1,28 @@
+[12:16]JF: teste 1.2
+
+[12:17]JF: teste 2
+
+[12:17]JF: teste 2.1
+
+[22:04]JF3: teste 3
+
+[22:04]JF3: teste 3.1
+
+[22:04]JF4: teste 3.2
+
+[12:33]JF: ola outra vez
+
+[12:33]JF: tudo bem?
+
+[16:52]JF: ola
+
+[12:12]JF: Ola 2
+
+[12:13]JF2: ola 3
+
+[12:14]JF: Ola 4
+
+[12:14]JF: Ola 5
+
+[21:43]JF: Boa noite
+
