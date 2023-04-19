@@ -1,4 +1,5 @@
 # PyChat
+
 Aplicação de chat feita em python na disciplina de Linguagens de Programação
 Criado por José Ferreira, Miguel Carvalho, Rodrigo sousa, Tiago Mota.
 
